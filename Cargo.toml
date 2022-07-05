@@ -5,12 +5,6 @@ edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
-[[bin]]
-path="src/bin/main.rs"
-name="main"
-
 [dependencies]
 
-proconio = "0.4.3"
-unicode-jp = "0.4.0"
 once_cell = "1.13.0"
