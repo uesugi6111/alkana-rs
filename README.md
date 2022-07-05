@@ -1,5 +1,9 @@
 # alkana-rs
 
+アルファベット -> カタカナ の変換をサポートします。
+49289語
+
+
 ```rust
 use alkana_rs::ALKANA;
 
