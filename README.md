@@ -1,6 +1,6 @@
 # alkana-rs
 
-```:rust
+```rust
 use alkana_rs::ALKANA;
 
 fn main() {
@@ -11,7 +11,7 @@ fn main() {
 
 ```
 
-```:sh
+```sh
 ハロー ワールドゥ !
 ```
 
