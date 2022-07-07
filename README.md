@@ -1,6 +1,12 @@
 # alkana-rs
+[![](https://img.shields.io/crates/v/alkana-rs.svg)](https://crates.io/crates/alkana-rs)
 
-```:rust
+
+アルファベット -> カタカナ の変換をサポートします。  
+49289語
+
+
+```rust
 use alkana_rs::ALKANA;
 
 fn main() {
@@ -11,7 +17,7 @@ fn main() {
 
 ```
 
-```:sh
+```sh
 ハロー ワールドゥ !
 ```
 
