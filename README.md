@@ -1,4 +1,6 @@
 # alkana-rs
+[![](https://img.shields.io/crates/v/alkana-rs.svg)](https://crates.io/crates/alkana-rs)
+
 
 アルファベット -> カタカナ の変換をサポートします。  
 49289語
